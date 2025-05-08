@@ -28,3 +28,8 @@ Then I found it. Hardly anyone has tried to make a game menu like a real game.
 That is to say: 3D buttons, a 3D cursor that can be controlled like any other game character. 
 And that all the interface is in the 3D world, not on a canva on top of the game.
 ![Screenshot of my project : The scene and the camera view in game](https://github.com/user-attachments/assets/a663ce6a-1c82-43c2-a9d6-2dd3881343bb)
+
+So for my project, I decided that the player would have to destroy the button in order to access the function behind it. 
+For the moment, this is a single-player game, which takes the “fun” out of the action. 
+But in the future, the aim is to add a co-op player and make it so that the player who destroys the button faster has the “choice”, or at least, a bonus in executing the button. 
+Or maybe each player is a copy of the same button, and has to protect his button from the other player while trying to attack his own.
