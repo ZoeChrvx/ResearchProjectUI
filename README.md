@@ -4,7 +4,7 @@ My first choice of exploration was to use the various UI tools in different ways
 
 
 # **Slate of Art :**
-<ins>UI tools as gameplay elements:</>
+<ins>UI tools as gameplay elements:</ins>
 Using UI tools like sliders or buttons as full-fledged gameplay elements has, unfortunately for me, already been done.
 And many times over, as in OSU or simply card games like Hearstone.
 ![Screenshot of OSU](https://github.com/user-attachments/assets/88dc9fae-6b74-45e1-aedc-a7deb518cc92)
